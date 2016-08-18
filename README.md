@@ -1,2 +1,2 @@
-# RCB-Day-45-MongoDB
+# RCB-Day-46-MongoDB
 RCB MongoDB lesson
